@@ -120,7 +120,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M0 1.75A.75.75 0 01.75 1h4.253c1.227 0 2.317.59 3 1.501A3.744 3.744 0 0111.006 1h4.245a.75.75 0 01.75.75v10.5a.75.75 0 01-.75.75h-4.507a2.25 2.25 0 00-1.591.659l-.622.621a.75.75 0 01-1.06 0l-.622-.621A2.25 2.25 0 005.258 13H.75a.75.75 0 01-.75-.75V1.75zm8.755 3a2.25 2.25 0 012.25-2.25H14.5v9h-3.757c-.71 0-1.4.201-1.992.572l.004-7.322zm-1.504 7.324l.004-5.073-.002-2.253A2.25 2.25 0 005.003 2.5H1.5v9h3.757a3.75 3.75 0 011.994.574z"/>
                                     </svg>
-                                    358 views in last two weeks
+                                    357 views in last two weeks
                                 </div>
                             </section>
                         </div>
@@ -464,8 +464,8 @@
                         <div class="category column">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge average">
                                 <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="250.04 329"/>
-                                <text x="60" y="60" dominant-baseline="central">76</text>
+                                <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="282.94 329"/>
+                                <text x="60" y="60" dominant-baseline="central">86</text>
                             </svg>
                             <span class="title">Performance</span>
                         </div>
@@ -527,8 +527,8 @@
                                 </g>
                                 <g>
                                     <g class="ct-series ct-series-a">
-                                        <path d="M30,125L30,86.5C36.304,86.5,42.609,86.5,48.913,86.5C55.217,86.5,61.522,86.5,67.826,86.5C74.13,86.5,80.435,86.5,86.739,86.5C93.043,86.5,99.348,86.5,105.652,86.5C111.957,86.5,118.261,125,124.565,125C130.87,125,137.174,118.889,143.478,114C149.783,109.111,156.087,102.476,162.391,92C168.696,81.524,175,37,181.304,37C187.609,37,193.913,81,200.217,81C206.522,81,212.826,75.5,219.13,75.5C225.435,75.5,231.739,86.5,238.043,86.5C244.348,86.5,250.652,75.5,256.957,75.5C263.261,75.5,269.565,81,275.87,81C282.174,81,288.478,81,294.783,81C301.087,81,307.391,81,313.696,81C320,81,326.304,81,332.609,81C338.913,81,345.217,125,351.522,125C357.826,125,364.13,37,370.435,37C376.739,37,383.043,86.5,389.348,86.5C395.652,86.5,401.957,86.5,408.261,86.5C414.565,86.5,420.87,92,427.174,92C433.478,92,439.783,81,446.087,81C452.391,81,458.696,84.667,465,86.5L465,125Z" class="ct-area"/>
-                                        <path d="M30,86.5C36.304,86.5,42.609,86.5,48.913,86.5C55.217,86.5,61.522,86.5,67.826,86.5C74.13,86.5,80.435,86.5,86.739,86.5C93.043,86.5,99.348,86.5,105.652,86.5C111.957,86.5,118.261,125,124.565,125C130.87,125,137.174,118.889,143.478,114C149.783,109.111,156.087,102.476,162.391,92C168.696,81.524,175,37,181.304,37C187.609,37,193.913,81,200.217,81C206.522,81,212.826,75.5,219.13,75.5C225.435,75.5,231.739,86.5,238.043,86.5C244.348,86.5,250.652,75.5,256.957,75.5C263.261,75.5,269.565,81,275.87,81C282.174,81,288.478,81,294.783,81C301.087,81,307.391,81,313.696,81C320,81,326.304,81,332.609,81C338.913,81,345.217,125,351.522,125C357.826,125,364.13,37,370.435,37C376.739,37,383.043,86.5,389.348,86.5C395.652,86.5,401.957,86.5,408.261,86.5C414.565,86.5,420.87,92,427.174,92C433.478,92,439.783,81,446.087,81C452.391,81,458.696,84.667,465,86.5" class="ct-line"/>
+                                        <path d="M30,125L30,86.5C36.304,86.5,42.609,86.5,48.913,86.5C55.217,86.5,61.522,86.5,67.826,86.5C74.13,86.5,80.435,86.5,86.739,86.5C93.043,86.5,99.348,86.5,105.652,86.5C111.957,86.5,118.261,125,124.565,125C130.87,125,137.174,118.4,143.478,114C149.783,109.6,156.087,106.143,162.391,97.5C168.696,88.857,175,37,181.304,37C187.609,37,193.913,81,200.217,81C206.522,81,212.826,75.5,219.13,75.5C225.435,75.5,231.739,86.5,238.043,86.5C244.348,86.5,250.652,75.5,256.957,75.5C263.261,75.5,269.565,81,275.87,81C282.174,81,288.478,81,294.783,81C301.087,81,307.391,81,313.696,81C320,81,326.304,81,332.609,81C338.913,81,345.217,125,351.522,125C357.826,125,364.13,37,370.435,37C376.739,37,383.043,77.741,389.348,81C395.652,84.259,401.957,84.667,408.261,86.5C414.565,88.333,420.87,92,427.174,92C433.478,92,439.783,81,446.087,81C452.391,81,458.696,84.667,465,86.5L465,125Z" class="ct-area"/>
+                                        <path d="M30,86.5C36.304,86.5,42.609,86.5,48.913,86.5C55.217,86.5,61.522,86.5,67.826,86.5C74.13,86.5,80.435,86.5,86.739,86.5C93.043,86.5,99.348,86.5,105.652,86.5C111.957,86.5,118.261,125,124.565,125C130.87,125,137.174,118.4,143.478,114C149.783,109.6,156.087,106.143,162.391,97.5C168.696,88.857,175,37,181.304,37C187.609,37,193.913,81,200.217,81C206.522,81,212.826,75.5,219.13,75.5C225.435,75.5,231.739,86.5,238.043,86.5C244.348,86.5,250.652,75.5,256.957,75.5C263.261,75.5,269.565,81,275.87,81C282.174,81,288.478,81,294.783,81C301.087,81,307.391,81,313.696,81C320,81,326.304,81,332.609,81C338.913,81,345.217,125,351.522,125C357.826,125,364.13,37,370.435,37C376.739,37,383.043,77.741,389.348,81C395.652,84.259,401.957,84.667,408.261,86.5C414.565,88.333,420.87,92,427.174,92C433.478,92,439.783,81,446.087,81C452.391,81,458.696,84.667,465,86.5" class="ct-line"/>
                                         <line x1="30" y1="86.5" x2="30.01" y2="86.5" class="ct-point" ct:value="7"/>
                                         <line x1="48.913043478260875" y1="86.5" x2="48.92304347826087" y2="86.5" class="ct-point" ct:value="7"/>
                                         <line x1="67.82608695652175" y1="86.5" x2="67.83608695652175" y2="86.5" class="ct-point" ct:value="7"/>
@@ -536,7 +536,7 @@
                                         <line x1="105.65217391304348" y1="86.5" x2="105.66217391304349" y2="86.5" class="ct-point" ct:value="7"/>
                                         <line x1="124.56521739130436" y1="125" x2="124.57521739130436" y2="125" class="ct-point" ct:value="0"/>
                                         <line x1="143.47826086956522" y1="114" x2="143.4882608695652" y2="114" class="ct-point" ct:value="2"/>
-                                        <line x1="162.3913043478261" y1="92" x2="162.40130434782608" y2="92" class="ct-point" ct:value="6"/>
+                                        <line x1="162.3913043478261" y1="97.5" x2="162.40130434782608" y2="97.5" class="ct-point" ct:value="5"/>
                                         <line x1="181.30434782608697" y1="37" x2="181.31434782608696" y2="37" class="ct-point" ct:value="16"/>
                                         <line x1="200.21739130434784" y1="81" x2="200.22739130434783" y2="81" class="ct-point" ct:value="8"/>
                                         <line x1="219.13043478260872" y1="75.5" x2="219.1404347826087" y2="75.5" class="ct-point" ct:value="9"/>
@@ -548,12 +548,12 @@
                                         <line x1="332.60869565217394" y1="81" x2="332.6186956521739" y2="81" class="ct-point" ct:value="8"/>
                                         <line x1="351.5217391304348" y1="125" x2="351.5317391304348" y2="125" class="ct-point" ct:value="0"/>
                                         <line x1="370.4347826086957" y1="37" x2="370.4447826086957" y2="37" class="ct-point" ct:value="16"/>
-                                        <line x1="389.34782608695656" y1="86.5" x2="389.35782608695655" y2="86.5" class="ct-point" ct:value="7"/>
+                                        <line x1="389.34782608695656" y1="81" x2="389.35782608695655" y2="81" class="ct-point" ct:value="8"/>
                                         <line x1="408.26086956521743" y1="86.5" x2="408.2708695652174" y2="86.5" class="ct-point" ct:value="7"/>
                                         <line x1="427.1739130434783" y1="92" x2="427.1839130434783" y2="92" class="ct-point" ct:value="6"/>
                                         <line x1="446.0869565217392" y1="81" x2="446.0969565217392" y2="81" class="ct-point" ct:value="8"/>
                                         <line x1="465.00000000000006" y1="86.5" x2="465.01000000000005" y2="86.5" class="ct-point" ct:value="7"/>
-                                    <text x="30" y="81.5" class="ct-post">7</text><text x="48.913043478260875" y="81.5" class="ct-post">7</text><text x="67.82608695652175" y="81.5" class="ct-post">7</text><text x="86.73913043478261" y="81.5" class="ct-post">7</text><text x="105.65217391304348" y="81.5" class="ct-post">7</text><text x="143.47826086956522" y="109" class="ct-post">2</text><text x="162.3913043478261" y="87" class="ct-post">6</text><text x="181.30434782608697" y="32" class="ct-post">16</text><text x="200.21739130434784" y="76" class="ct-post">8</text><text x="219.13043478260872" y="70.5" class="ct-post">9</text><text x="238.0434782608696" y="81.5" class="ct-post">7</text><text x="256.95652173913044" y="70.5" class="ct-post">9</text><text x="275.8695652173913" y="76" class="ct-post">8</text><text x="294.7826086956522" y="76" class="ct-post">8</text><text x="313.69565217391306" y="76" class="ct-post">8</text><text x="332.60869565217394" y="76" class="ct-post">8</text><text x="370.4347826086957" y="32" class="ct-post">16</text><text x="389.34782608695656" y="81.5" class="ct-post">7</text><text x="408.26086956521743" y="81.5" class="ct-post">7</text><text x="427.1739130434783" y="87" class="ct-post">6</text><text x="446.0869565217392" y="76" class="ct-post">8</text><text x="465.00000000000006" y="81.5" class="ct-post">7</text></g>
+                                    <text x="30" y="81.5" class="ct-post">7</text><text x="48.913043478260875" y="81.5" class="ct-post">7</text><text x="67.82608695652175" y="81.5" class="ct-post">7</text><text x="86.73913043478261" y="81.5" class="ct-post">7</text><text x="105.65217391304348" y="81.5" class="ct-post">7</text><text x="143.47826086956522" y="109" class="ct-post">2</text><text x="162.3913043478261" y="92.5" class="ct-post">5</text><text x="181.30434782608697" y="32" class="ct-post">16</text><text x="200.21739130434784" y="76" class="ct-post">8</text><text x="219.13043478260872" y="70.5" class="ct-post">9</text><text x="238.0434782608696" y="81.5" class="ct-post">7</text><text x="256.95652173913044" y="70.5" class="ct-post">9</text><text x="275.8695652173913" y="76" class="ct-post">8</text><text x="294.7826086956522" y="76" class="ct-post">8</text><text x="313.69565217391306" y="76" class="ct-post">8</text><text x="332.60869565217394" y="76" class="ct-post">8</text><text x="370.4347826086957" y="32" class="ct-post">16</text><text x="389.34782608695656" y="76" class="ct-post">8</text><text x="408.26086956521743" y="81.5" class="ct-post">7</text><text x="427.1739130434783" y="87" class="ct-post">6</text><text x="446.0869565217392" y="76" class="ct-post">8</text><text x="465.00000000000006" y="81.5" class="ct-post">7</text></g>
                                 </g>
                                 <g class="ct-labels">
                                     <text x="30" y="145" width="18.91304347826087" height="20" class="ct-label ct-horizontal ct-end">0</text>
@@ -907,6 +907,27 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
+                                        <div class="sha">#012be8a</div>
+                                        <div class="message">Update github-metrics.svg - [Skip GitHub Action]</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        <div class="user">github-actions[bot]</div>
+                                        pushed 1 commit in
+                                        <span class="repo">Comp-Labs/.github</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
                                         <div class="sha">#820f040</div>
                                         <div class="message">Update github-metrics.svg - [Skip GitHub Action]</div>
                                     </div>
@@ -971,27 +992,6 @@
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
                                         <div class="sha">#3302fe7</div>
-                                        <div class="message">Update github-metrics.svg - [Skip GitHub Action]</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        <div class="user">github-actions[bot]</div>
-                                        pushed 1 commit in
-                                        <span class="repo">Comp-Labs/.github</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#e9fa734</div>
                                         <div class="message">Update github-metrics.svg - [Skip GitHub Action]</div>
                                     </div>
                                 </div>
@@ -1281,7 +1281,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="0.8487337440109582 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="1.0609171800136936 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g xmlns="http://www.w3.org/2000/svg" transform="translate(5 4)" fill="none" fill-rule="evenodd">
@@ -1404,7 +1404,7 @@
                 </div>
             </section>
             <footer>
-                <span>Last updated 23 Dec 2022, 19:38:34 (timezone Asia/Calcutta) with lowlighter/metrics@3.31.0</span>
+                <span>Last updated 23 Dec 2022, 20:40:04 (timezone Asia/Calcutta) with lowlighter/metrics@3.31.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
