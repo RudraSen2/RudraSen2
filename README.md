@@ -4,7 +4,7 @@ Hi 👋 My name is Rudra Sen
 Developer, Designer, and Student
 --------------------------------
 
-* ✉️  You can contact me at [rudra\_sen@outlook.com](mailto:rudra_sen@outlook.com)
+* ✉️  You can contact me at [cutesen.2010@gmail.com](mailto:cutesen.2010@gmail.com)
 * 🚀  I'm currently working on [My Website](http://techfiddle.io)
 
 <a href="https://www.github.com/RudraSen2" target="_blank" rel="noreferrer"><img
